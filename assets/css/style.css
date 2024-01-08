@@ -61,7 +61,7 @@
 
 /* line 87, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
 .theme-bg {
-  background: #14435c;
+  background: #0355cc;
 }
 
 /* line 90, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
@@ -87,7 +87,7 @@
 
 /* line 105, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
 .theme-color {
-  color: #14435c;
+  color: #0355cc;
 }
 
 /*------------------- Responsive --------------------------*/
@@ -98,26 +98,26 @@
 /* line 58, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_variables.scss */
 .boxed-btn {
   background: #fff;
-  color: #14435c !important;
+  color: #0355cc !important;
   display: inline-block;
   padding: 18px 44px;
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
-  border: 1px solid #14435c;
+  border: 1px solid #0355cc;
   letter-spacing: 3px;
   text-align: center;
-  color: #14435c;
+  color: #0355cc;
   text-transform: uppercase;
   cursor: pointer;
 }
 
 /* line 75, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_variables.scss */
 .boxed-btn:hover {
-  background: #14435c;
+  background: #0355cc;
   color: #fff !important;
-  border: 1px solid #14435c;
+  border: 1px solid #0355cc;
 }
 
 /* line 80, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_variables.scss */
@@ -707,7 +707,7 @@ hero-btn {
   top: 0;
   width: 101%;
   height: 101%;
-  background: #14435c;
+  background: #0355cc;
   z-index: -1;
   transition: transform 0.5s;
   transition-timing-function: ease;
@@ -732,7 +732,7 @@ hero-btn {
 /* scrollUp */
 /* line 431, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
 #scrollUp, #back-top {
-  background: #14435c;
+  background: #0355cc;
   height: 50px;
   width: 50px;
   right: 31px;
@@ -2506,7 +2506,7 @@ hero-btn {
   position: relative;
   border-style: solid;
   border-width: 1px;
-  border-top-color: #14435c;
+  border-top-color: #0355cc;
   border-bottom-color: transparent;
   border-left-color: transparent;
   border-right-color: transparent;
@@ -3176,7 +3176,7 @@ hero-btn {
 
 /* line 87, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
 .theme-bg {
-  background: #14435c;
+  background: #0355cc;
 }
 
 /* line 90, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
@@ -3202,7 +3202,7 @@ hero-btn {
 
 /* line 105, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
 .theme-color {
-  color: #14435c;
+  color: #0355cc;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -3289,7 +3289,7 @@ hero-btn {
 
 /* line 62, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
 .header-area .header-top .header-info-right .header-social li a:hover {
-  color: #14435c;
+  color: #0355cc;
 }
 
 /* line 73, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
@@ -3336,7 +3336,7 @@ hero-btn {
 
 /* line 99, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
 .main-header .main-menu ul li:hover > a {
-  color: #14435c;
+  color: #0355cc;
 }
 
 /* line 104, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
@@ -3473,7 +3473,7 @@ hero-btn {
 
 /* line 229, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
 .mobile_menu .slicknav_menu .slicknav_btn .slicknav_icon-bar {
-  background-color: #14435c !important;
+  background-color: #0355cc !important;
 }
 
 /* line 233, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
@@ -3484,7 +3484,7 @@ hero-btn {
 /* line 236, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
-  color: #14435c;
+  color: #0355cc;
 }
 
 /* line 240, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_headerMenu.scss */
@@ -4268,7 +4268,7 @@ hero-btn {
 
 /* line 65, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_services_section.scss */
 .services-area .single-services .services-caption p a:hover {
-  color: #14435c;
+  color: #0355cc;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -4780,7 +4780,7 @@ hero-btn {
 
 /* line 107, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_footer.scss */
 .footer-area .footer-top .single-footer-caption .footer-cap span {
-  color: #14435c;
+  color: #0355cc;
   font-size: 16px;
   font-weight: 300;
   margin-bottom: 10px;
@@ -4896,7 +4896,7 @@ hero-btn {
   content: "";
   width: 75px;
   height: 3px;
-  background: #14435c;
+  background: #0355cc;
   left: 0;
   top: 52%;
   transform: translateY(-50%);
@@ -5029,7 +5029,7 @@ hero-btn {
 
 /* line 66, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
 .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a:hover {
-  color: #14435c;
+  color: #0355cc;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -5117,7 +5117,7 @@ hero-btn {
 
 /* line 136, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
 .blog_area a:hover, .blog_area a :hover {
-  background: -webkit-linear-gradient(131deg, #14435c 0%, #14435c 99%);
+  background: -webkit-linear-gradient(131deg, #0355cc 0%, #0355cc 99%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-decoration: none;
@@ -5713,7 +5713,7 @@ hero-btn {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #14435c;
+  background-color: #0355cc;
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -5808,7 +5808,7 @@ hero-btn {
 
 /* line 816, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
 .blog_right_sidebar .search_widget .input-group button {
-  background: #14435c;
+  background: #0355cc;
   border-left: 0;
   border: 1px solid #f0e9ff;
   padding: 4px 15px;
@@ -5946,7 +5946,7 @@ hero-btn {
 
 /* line 967, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #14435c;
+  background: #0355cc;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;

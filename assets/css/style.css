@@ -24,7 +24,9 @@
 	10. footer
 
 -------------------------------------------------
-*/
+*/:root{
+--color:#0355cc;
+}
 /*-------------   Color Variable  --------------*/
 @import url("https://fonts.googleapis.com/css?family=Alex+Brush|Roboto:300,400,700,900|Titillium+Web:300,400,600,700&display=swap");
 /* line 34, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_color.scss */
